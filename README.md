@@ -4,7 +4,7 @@ Programa que agenda o encerramento do Windows.
 
 O programa foi escrito em CSharp utilizando o Windows Form para interface gráfica.
 
-Por detras dos panos executaos o comando "Shutdown -s"
+Por detras dos panos executao o comando "Shutdown -s"
 
 Program that schedules Windows shutdown.
 
