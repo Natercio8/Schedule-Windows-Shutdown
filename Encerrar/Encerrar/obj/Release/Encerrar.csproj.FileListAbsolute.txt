@@ -1,0 +1,10 @@
+C:\Users\N\source\repos\Encerrar\Encerrar\bin\Release\Encerrar.exe.config
+C:\Users\N\source\repos\Encerrar\Encerrar\bin\Release\Encerrar.exe
+C:\Users\N\source\repos\Encerrar\Encerrar\bin\Release\Encerrar.pdb
+C:\Users\N\source\repos\Encerrar\Encerrar\obj\Release\Encerrar.csproj.AssemblyReference.cache
+C:\Users\N\source\repos\Encerrar\Encerrar\obj\Release\Encerrar.Form1.resources
+C:\Users\N\source\repos\Encerrar\Encerrar\obj\Release\Encerrar.Properties.Resources.resources
+C:\Users\N\source\repos\Encerrar\Encerrar\obj\Release\Encerrar.csproj.GenerateResource.cache
+C:\Users\N\source\repos\Encerrar\Encerrar\obj\Release\Encerrar.csproj.CoreCompileInputs.cache
+C:\Users\N\source\repos\Encerrar\Encerrar\obj\Release\Encerrar.exe
+C:\Users\N\source\repos\Encerrar\Encerrar\obj\Release\Encerrar.pdb
